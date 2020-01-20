@@ -32,12 +32,12 @@ a full LaTeX glossary entry as
 will be printed on the command line for you to verify the result and also copied to your clipboard for direct pasting.
 
 ## Dependencies
-Make sure you have Python's `pip` installed. You can install it on Ubuntu with:
+Make sure you have Python's `pip` and on Ubuntu `xclip` installed. You can install it on Ubuntu with:
 
 ```
 sudo apt-get install python-pip xclip
 ```
-And [Pyperclip](https://github.com/asweigart/pyperclip) by running:
+and [Pyperclip](https://github.com/asweigart/pyperclip) by running:
 
 ```
 pip install pyperclip
