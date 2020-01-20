@@ -37,7 +37,7 @@ Make sure you have Python's `pip` installed. You can install it on Ubuntu with:
 ```
 sudo apt-get install python-pip xclip
 ```
-And (pyperclip)[https://github.com/asweigart/pyperclip] by running:
+And [Pyperclip](https://github.com/asweigart/pyperclip) by running:
 
 ```
 pip install pyperclip
